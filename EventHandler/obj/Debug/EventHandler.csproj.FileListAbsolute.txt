@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\EventHandler\EventHandler\bin\Debug\EventHandler.exe.config
+C:\Users\ivy\Documents\GitHub\EventHandler\EventHandler\bin\Debug\EventHandler.exe
+C:\Users\ivy\Documents\GitHub\EventHandler\EventHandler\bin\Debug\EventHandler.pdb
+C:\Users\ivy\Documents\GitHub\EventHandler\EventHandler\obj\Debug\EventHandler.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\EventHandler\EventHandler\obj\Debug\EventHandler.exe
+C:\Users\ivy\Documents\GitHub\EventHandler\EventHandler\obj\Debug\EventHandler.pdb
